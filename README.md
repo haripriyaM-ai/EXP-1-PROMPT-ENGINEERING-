@@ -38,7 +38,7 @@ Requirements:
 6. Convert the final output into PDF format
  
 ## Output
-final_report.pdf
+https://github.com/haripriyaM-ai/EXP-1-PROMPT-ENGINEERING-/blob/fb583aa0194b944ee4899b36ee29c126cb74e003/final_report.pdf
 
 ## Result
 A clear, concise, and structured report on Generative AI was successfully generated. The experiment demonstrates that well-designed prompts significantly improve the quality, clarity, and usability of AI-generated content for academic purposes.
